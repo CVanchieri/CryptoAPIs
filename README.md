@@ -1,13 +1,13 @@
 # CryptoThings
 
-#APIs
+## APIs
 Connecting to different crypto APIs with Python.
 
 Etherscan Ethereum API
 MagicEden Solana API
 MagicEden Ordinals API
 
-#DATA
+## DATA
 Collecting and combining crypto data.
 
 MarketWatch
